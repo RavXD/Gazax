@@ -1,18 +1,18 @@
 <h1 align="center">
-  SIMPLE CRACK
+  RAV SPARK TEAM
 </h1>
 </div>
 <p align="center">
-  Author <a href="https://www.facebook.com/siti.khatijah.1029">Fall Xavier</a>
+  Author <a href="https://https://www.facebook.com/muhammad.hanyauntukmu  RavXD</a>
 </p>
 <p align="center">
  
 ### Hasil crack tanpa TTL
- <img src="https://github.com/Fall-Xavier/simple/blob/main/Screenshot_2021-07-04-21-14-42-83_84d3000e3f4017145260f7618db1d683.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/RavXD/Gazax/blob/main/Screenshot_2021-07-04-21-14-42-83_84d3000e3f4017145260f7618db1d683.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 ### Hasil crack dengan TTL
- <img src="https://github.com/Fall-Xavier/simple/blob/main/IMG_20210715_111220.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/RavXD/Gazax/blob/main/IMG_20210715_111220.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 
@@ -23,7 +23,7 @@ $ pkg install python2
 $ pkg install git
 $ pip install requests
 $ pip2 install requests
-$ git clone https://github.com/Fall-Xavier/simple
+$ git clone https://github.com/RavXD/Gazax
 ```
 #### Run script
 ```bash
