@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Author <a href="https://https://www.facebook.com/muhammad.hanyauntukmu  RavXD</a>
+  Author <a href="RavXD</a>
 </p>
 <p align="center">
  
